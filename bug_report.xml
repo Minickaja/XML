@@ -1,1 +1,16 @@
-
+<bug_report>
+<Summary>Короткое описание проблемы, явно указывающее на причину и тип ошибочной ситуации</Summary>
+<Project>Название тестируемого проекта</Project>
+<Component>Название части и функции тестируемого продукта</Component>
+<Version>Версия на которой была найдена ошибка</Version>
+<Severity>S1 Blocker, S2 Critical, S3 Major, S4 Minor, S5 Trivial</Severity>
+<Priority>P1 High, P2 Medium, P3 Low</Priority>
+<Status>bug workflow and life cycle</Status>
+<Author>Создатель баг репорта</Author>
+<Assigned_To>Имя сотрудника, назначенного на решение проблемы</Assigned_To>
+<OC>Информация об окружении, на котором был найден баг</OC>
+<Steps_to_Reproduce>Шаги, по которым можно легко воспроизвести ситуацию, приведшую к ошибке</Steps_to_Reproduce>
+<Result>Результат, полученный после прохождения шагов к произведению</Result>
+<Expected_Result>Ожидаемый правильный ответ</Expected_Result>
+<Attachment>Файл с логами, скриншот или любой другой документ, который может помочь прояснить причину ошибки или указать на способ решения проблемы</Attachment>
+</bug_report>
